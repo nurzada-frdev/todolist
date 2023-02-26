@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background: wheat;
+}
+input{
+    padding: 15px 30px;
+}
+button{
+    background: aqua;
+    border: none;
+    color: deeppink;
+}
